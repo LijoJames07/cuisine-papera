@@ -9,7 +9,7 @@ const RESTAURANT_WHATSAPP_NUMBER = "+91 8884667890";
 const menuDatabase = [
     // Kodava Pork Specials
     
-    { id: 2, name: "Pork Chudal (Sizzling Fry)", category: "kodava", price: "₹400", desc: "Crispy fried pork pieces with roasted bird's eye chili and curry leaves.", isChefSpecial: false, isVeg: false },
+    { id: 2, name: "Pork Chudal (Sizzling Fry)", category: "kodava", price: "₹350", desc: "Crispy fried pork pieces with roasted bird's eye chili and curry leaves.", isChefSpecial: false, isVeg: false },
     { id: 3, name: "Pandi Curry (Classic)", category: "kodava", price: "₹310", desc: "Traditional dark Kodava pork gravy cooked in black pepper & coriander paste.", isChefSpecial: false, isVeg: false },
     { id: 4, name: "Adivasi Claypot Pork", category: "kodava", price: "₹350", desc: "Tribal recipe cooked with wild green chilies and ginger-garlic in clayware.", isChefSpecial: true, isVeg: false },
     { id: 5, name: "Coorg Pork Pepper Roast", category: "kodava", price: "₹330", desc: "Dry roasted pork tossed in freshly crushed Coorg black pepper.", isChefSpecial: false, isVeg: false },
